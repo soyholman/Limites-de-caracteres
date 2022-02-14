@@ -15,7 +15,7 @@ padding: 0 15px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #007bbf;
+    background-color: #f4fcfc;
 }
 
 .input-box{
@@ -26,6 +26,7 @@ padding: 0 15px;
   background: white;
 padding: 30px;
 border-radius: 6px;
+       box-shadow: 0 5px 10px -6px rgba(0,0, 0, 1.2);
 }
 
 .input-box textarea{
